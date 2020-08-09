@@ -1,0 +1,1 @@
+This is a simple Idea list using firebase
