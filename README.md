@@ -1,1 +1,5 @@
-This is a simple Idea list using firebase
+-This is a simple Idea list Manager.
+
+Used Technologies
+-Ionic
+-Firebase
